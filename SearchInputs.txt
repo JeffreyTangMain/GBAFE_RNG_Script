@@ -1,0 +1,26 @@
+-10000,10000
+h<100
+<5
+end
+
+HP, STR, MAG, SKL, SPD, DEF, RES, LCK
+
+1:2 RNs for hit averaged together
+2:(IF ATTACKER HAS SURE SHOT) 1 RN for Sure Shot
+3:(IF HIT AND ATTACKER HAS PIERCE) 1 RN for Pierce
+4:(IF HIT AND DEFENDER HAS GREAT SHIELD) 1 RN for Great Shield
+5:(IF HIT) 1 RN for Crit
+6:(IF CRIT AND ATTACKER HAS SILENCER) 1 RN for Silencer
+7:(IF HIT AND ATTACKER USING DEVIL AXE) 1 RN for Devil Effect
+8:(IF HIT) 1 RN for Astra
+9:(IF HIT) 1 RN for Aether
+10:(IF HIT) 1 RN for Ignis
+11:(IF HIT) 1 RN for Black Magic
+12:(IF HIT) 1 RN for Pavise/Aegis
+13:(IF HIT AND ATTACKER HAS ADEPT AND ENEMY LIVES WITHOUT CRIT) 1 RN for Adept
+14:(IF HIT) 1 RN for Sol
+15:(IF HIT) 1 RN for Impale
+16:(???) 1 RN for Desert Treasure
+
+17:(After attack) 7 RNs for Levels
+18:(After attack) 1 RN for Re-Move
